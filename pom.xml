@@ -13,6 +13,10 @@
 		<sonar.host.url>http://18.183.243.238:9000/</sonar.host.url>
 
 	</properties>
+	<properties>
+                <maven.compiler.source>1.8</maven.compiler.source>
+                <maven.compiler.target>1.8</maven.compiler.target>
+        </properties>
 	<dependencies>
 
 		
